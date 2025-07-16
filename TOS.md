@@ -2,7 +2,7 @@
  O melhor Bot de economia do Discord!
 
 - Sobre a licença GNU General Public License v3.0
-- Terms of Service (TOS) [CLIQUE AQUI]
+- Terms of Service (TOS) [CLIQUE AQUI](https://github.com/botzoeoficial/zoeoficial/blob/master/TOS.md)
 - Privacy Policy [CLIQUE AQUI][text](../Zoebot%20Oficial%20V4/PRIVACY.md)
 - Adição para a licença: Este material é exclusivo e de propriedade privada, é proibido o uso do mesmo para uso público em outra aplicação ou para objetivos financeiros.
 
